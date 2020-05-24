@@ -1,7 +1,6 @@
 ---
-layout: RNAseq-post-index
+layout: page
 title: RNAseq
-excerpt: "Recent RNAseq-work"
 ---
 
-Some of my RNAseq-work
+Here, I will share some of my RNAseq-work
