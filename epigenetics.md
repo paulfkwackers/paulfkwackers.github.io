@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Epigenetica
+title: Epigenetics
 ---
 
 Here, I will share some my DNA methylation analysis work. E.g.
