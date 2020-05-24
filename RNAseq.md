@@ -1,6 +1,8 @@
 ---
 layout: page
-title: RNAseq
+title: Coursework
 ---
 
-Here, I will share some of my RNAseq-work
+Some RNAseq work. E.g.:
++ alignment workflow
++ visualizations
