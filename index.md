@@ -1,12 +1,9 @@
----
-layout: page
-excerpt: "About Me..."
----
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Hi, welcome at my GitHub Page!
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- RNAseq
+- Epigenetics
+- Toxicogenomics
+- Data viz
