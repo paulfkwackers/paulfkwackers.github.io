@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coursework
+title: RNAseq
 ---
 
 Here, I will share some RNAseq work. E.g.:
