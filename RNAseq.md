@@ -3,6 +3,6 @@ layout: page
 title: Coursework
 ---
 
-Some RNAseq work. E.g.:
+Here, I will share some RNAseq work. E.g.:
 + alignment workflow
 + visualizations
